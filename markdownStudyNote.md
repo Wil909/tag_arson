@@ -376,10 +376,10 @@ author:Wil909
 
  Effects:
 
- ![憨憨](../markdown%20notes/images/IMG_6901.jpg)
+ ![憨憨](/images/IMG_6901.jpg)
 
- ![憨憨](../markdown%20notes/images/IMG_6904.jpg)
- ![憨憨](../markdown%20notes/images/IMG_6916.jpg)
+ ![憨憨](/images/IMG_6904.jpg)
+ ![憨憨](/images/IMG_6916.jpg)
  ---
 
 ### 8.Form
