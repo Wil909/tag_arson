@@ -1,1 +1,1 @@
-[我的markdown笔记](../markdownStudyNote.md)
+[我的markdown笔记](/markdownStudyNote.md)
